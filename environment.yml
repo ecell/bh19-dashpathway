@@ -1,8 +1,0 @@
-name: example-environment
-channels:
-  - plotly
-  - defaults
-  - conda-forge  
-dependencies:
-  - jupyterlab-dash
-  - dash
